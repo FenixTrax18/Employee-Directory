@@ -5,7 +5,7 @@ import $ from "jquery"
 export default {
   getAllEmps: function() {
     return $.ajax({
-      url: 'https://randomuser.me/api/',
+      url: 'https://randomuser.me/api/?results=25&nat=us',
       dataType: 'json'
     });
   }

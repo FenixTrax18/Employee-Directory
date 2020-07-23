@@ -5,11 +5,11 @@ function Search(props) {
         <div>
             <input
                 value={props.search}
-                onChange={props.handleInputChange}
+                onInput={props.handleInputChange}
                 type="text"
                 className="form-control"
             />
-            <button type="submit" onClick={props.handleFormSubmit} className="btn btn-success">
+            <button type="input" onClick={props.handleSearchClick} className="btn btn-success">
                 Search
         </button>
         </div>
