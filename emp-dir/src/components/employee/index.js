@@ -2,12 +2,22 @@ import React from "react";
 
 function Employee(props) {
     return (
-        <div>
-            {props.empData.picture.thumbnail}
-            {props.empData.name.last}
-            {props.empData.name.first}
-            {props.empData.phone}
-            {props.empData.email}
+        <div className="tableRow">
+                <div>
+                    {props.empData.picture.thumbnail}
+                </div>
+                <div>
+                    {props.empData.name.last}
+                </div>
+                <div>
+                    {props.empData.name.first}
+                </div>
+                <div>
+                    {props.empData.phone}
+                </div>
+                <div>
+                    {props.empData.email}
+                </div>
         </div>
     );
 }

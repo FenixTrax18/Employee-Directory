@@ -5,7 +5,6 @@ import Footer from "../components/footer";
 import Header from "../components/header";
 import Search from "../components/search";
 import Sort from "../components/sort";
-import { data } from "jquery";
 
 class EmpDir extends Component {
   state = {
