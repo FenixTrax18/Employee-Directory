@@ -2,16 +2,14 @@ import React from "react";
 
 function Search(props) {
     return (
-        <div>
+        <div className="search">
             <input
+                placeholder="Search for a name"
                 value={props.search}
                 onInput={props.handleInputChange}
                 type="text"
                 className="form-control"
             />
-            <button type="input" onClick={props.handleSearchClick} className="btn btn-success">
-                Search
-        </button>
         </div>
     );
 }

@@ -4,7 +4,7 @@ function Employee(props) {
     return (
         <div className="tableRow">
                 <div>
-                    {props.empData.picture.thumbnail}
+                    <img src={props.empData.picture.thumbnail}/>
                 </div>
                 <div>
                     {props.empData.name.last}
