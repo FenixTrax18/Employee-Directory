@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FenixTrax18/Employee-Directory/static/css/main.b8f6238e.chunk.css",
+    "main.js": "/FenixTrax18/Employee-Directory/static/js/main.4227063d.chunk.js",
+    "main.js.map": "/FenixTrax18/Employee-Directory/static/js/main.4227063d.chunk.js.map",
+    "runtime-main.js": "/FenixTrax18/Employee-Directory/static/js/runtime-main.4f2fc3d3.js",
+    "runtime-main.js.map": "/FenixTrax18/Employee-Directory/static/js/runtime-main.4f2fc3d3.js.map",
+    "static/js/2.5497271e.chunk.js": "/FenixTrax18/Employee-Directory/static/js/2.5497271e.chunk.js",
+    "static/js/2.5497271e.chunk.js.map": "/FenixTrax18/Employee-Directory/static/js/2.5497271e.chunk.js.map",
+    "index.html": "/FenixTrax18/Employee-Directory/index.html",
+    "precache-manifest.37daacaf1fc1eba7ee04e1af13debc47.js": "/FenixTrax18/Employee-Directory/precache-manifest.37daacaf1fc1eba7ee04e1af13debc47.js",
+    "service-worker.js": "/FenixTrax18/Employee-Directory/service-worker.js",
+    "static/css/main.b8f6238e.chunk.css.map": "/FenixTrax18/Employee-Directory/static/css/main.b8f6238e.chunk.css.map",
+    "static/js/2.5497271e.chunk.js.LICENSE.txt": "/FenixTrax18/Employee-Directory/static/js/2.5497271e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f2fc3d3.js",
+    "static/js/2.5497271e.chunk.js",
+    "static/css/main.b8f6238e.chunk.css",
+    "static/js/main.4227063d.chunk.js"
+  ]
+}
