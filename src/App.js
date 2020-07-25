@@ -5,9 +5,10 @@ import EmpDir from "./pages/emp-dir";
 
 function App() {
   return (
-    <Router>
-      <Route exact path="/" component={EmpDir} />
-    </Router>
+    <div>
+      <EmpDir>
+      </EmpDir>
+    </div>
   );
 }
 
